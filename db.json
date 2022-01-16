@@ -1,0 +1,18 @@
+{
+    "blogs":[
+        {
+    
+        "title": "blog 1",
+        "body": "lorem10",
+        "author": "yoshi",
+        "id": 1
+    } ,
+
+    {
+        "title": "blog 2",
+        "body": "lorem111",
+        "author": "yoshinawa",
+        "id": 2
+    }
+]
+}
